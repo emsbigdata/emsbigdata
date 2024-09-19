@@ -97,6 +97,8 @@
   - 매칭 과정에서는 연령과 내원 시간의 유클리드 거리를 계산하여 가장 가까이 위치한 일치되는 항목 매칭합니다.
   - 결과는 구급활동일지 데이터의 환자ID와 NEDIS 데이터의 환자 ID를 매칭하여 저장합니다.
 
+![image](https://github.com/user-attachments/assets/682d95ca-5c0c-4e0e-886a-fd50328b904d)
+
 ---
 
 # EMS NEDIS Agent
