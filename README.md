@@ -2,7 +2,8 @@
 
 ## 1. 프로젝트 소개
   - 
-  - <a href="mailto:(mslee@owl-nest.com)" target="_blank">
+  - 관리자 메일
+<a href="mailto:(mslee@owl-nest.com)" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
 </a>
 
