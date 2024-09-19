@@ -73,7 +73,7 @@
 
 ---
 
-# EMS-PSM-Algorithm
+# PSM(Propensity Score Matching, PSM) Algorithm
 
 ## 1. 개요
   - SFM-NEDIS Gmatch 알고리즘은 구급활동일지 데이터와 NEDIS 두 개의 다른 소스에서 환자 기록을 병원 코드, 성별, 내원 날짜 및 연령과 같은 다양한 속성을 기준으로 매칭하는 도구입니다.
