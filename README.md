@@ -119,7 +119,15 @@
     - 외상환자 진료내역은 외상을 입은 환자에 대한 진료를 기록한 데이터셋, 3.0 버전이 추가되었습니다.
     - 보호장구 착용여부 및 종류, 내원시 GCS 평가 관련 사항, 기저질환 여부 및 종류 등을 포함합니다.
 
-![image](https://github.com/user-attachments/assets/dcb76f56-8d24-484f-9b6a-371727796a4d)
+## 3. 데이터 연계   
+      
+  - 참여병원 NEDIS 데이터 연계
+    - 충청북도 스마트챌린지사업 참여병원을 대상으로 NEDIS 데이터 연계를 위한 협의를 거쳐 EMS와의 연계 작업을 진행합니다.
+    - 참여병원의 NDEIS 데이터 제공 구조와 데이터 현황을 파악한 후, EMS NEDIS Agent 연계 시스템을 개발 및 적용하여 데이터 연계를 구현합니다.
+    - 안정적인 NEDIS 데이터 연계를 위해 EMS NEDIS Agent PC에서 구동 상태, 버전 정보, 전송 유형, 로그 정보 등을 지속적으로 모니터링합니다.
+
+![image](https://github.com/user-attachments/assets/77b4a5c8-fb9b-4a86-b673-be5af2659d75)
+
 
 
 <!---
