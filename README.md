@@ -24,7 +24,7 @@
     - 골든타임 내 적절한 응급처치와 이송읕 통해 골든타입을 확보합니다.
     - 국민을 대상으로 보다 나은 서비스를 제공합니다.
 
-![image](https://github.com/user-attachments/assets/0564ca83-b51f-4495-b82d-53a8c2c76062)
+![image](https://github.com/user-attachments/assets/4a869d8b-dd1b-439e-81da-8cf845aed0ae)
 
 ---
 
