@@ -9,7 +9,7 @@
 
 ## 3. 공통 요구사양
   - OS : Ubuntu 22.04
-  - DB : PostGreSQL 16.2
+  - DBMS : PostGreSQL 16.2
   - DB Admin Tool : pgAdmin 4
   - DB Tool : DBeaver Community 24.2.0
   - Language : Python 3.11
