@@ -14,10 +14,10 @@
   - Language : Python 3.11
 
     
-[![Ubuntu](https://github.com/user-attachments/assets/c25473d8-efb9-4fe1-afab-2b231a0d0727)](https://releases.ubuntu.com/jammy/)
-[![postresql](https://github.com/user-attachments/assets/82800751-3f13-4db9-ad53-d6aa8543f0a0)](https://www.postgresql.org/download/)
+[![Ubuntu](https://github.com/user-attachments/assets/c25473d8-efb9-4fe1-afab-2b231a0d0727)](https://releases.ubuntu.com/jammy/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![postresql](https://github.com/user-attachments/assets/82800751-3f13-4db9-ad53-d6aa8543f0a0)](https://www.postgresql.org/download/)<br><br>
+[![python](https://github.com/user-attachments/assets/b9ba1abd-55bf-4163-98cc-6f9a79af49da)](https://www.python.org/downloads/release/python-3110/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![dbeaver](https://github.com/user-attachments/assets/7e6e8568-7ad0-4264-98ad-84553c58fa41)](https://dbeaver.io/2024/09/01/dbeaver-24-2/)
-[![python](https://github.com/user-attachments/assets/b9ba1abd-55bf-4163-98cc-6f9a79af49da)](https://www.python.org/downloads/release/python-3110/)
 
 
 ## 4. Repository 관련 문의처
