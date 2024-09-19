@@ -14,7 +14,8 @@
     - 골든타임 내 적절한 응급처치와 이송
     - 국민을 대상으로 보다 나은 서비스 제공
 
-    ![summary_img01](https://github.com/user-attachments/assets/b76cbe2e-19b2-4698-bab1-1d1ac3eb26b6)
+![image](https://github.com/user-attachments/assets/5f3f34bc-947e-4975-9774-b34235e612bb)
+
 
 ---
 
