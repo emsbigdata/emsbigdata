@@ -7,7 +7,13 @@
   - EMS NEDIS Agent
   - EMS PSM Algorithm
 
-## 3. Repository 관련 문의처
+## 3. 공통 요구사양
+  - OS : Ubuntu 22.04
+  - DB : PostGreSQL 16.2
+  - DB Tool : DBeaver Community 24.2.0
+  - Language : Python 3.11
+
+## 4. Repository 관련 문의처
   - Repository : emsbigdata
   - 문의방법 : Discusion의 Q&A를 사용하여 문의
   - 바로가기
