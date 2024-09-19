@@ -41,7 +41,7 @@
   - 구급-병원 데이터 연계
     - 구급 단계와 병원 단계의 데이터를 통합적으로 분석하기 위해 확률적 매칭 방법(Propensity Score Matching, PSM)을 사용한 구급-병원 데이터 연계 기능
 
-![image](https://github.com/user-attachments/assets/d207f1db-7487-4e43-8fbe-2c255d1d8b80)
+![image](https://github.com/user-attachments/assets/3a9ad84a-6d71-4e09-a7d6-1713226a9728)
 
 ---
 
