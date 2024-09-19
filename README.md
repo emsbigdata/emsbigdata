@@ -119,6 +119,8 @@
     - 외상환자 진료내역은 외상을 입은 환자에 대한 진료를 기록한 데이터셋, 3.0 버전이 추가되었습니다.
     - 보호장구 착용여부 및 종류, 내원시 GCS 평가 관련 사항, 기저질환 여부 및 종류 등을 포함합니다.
 
+![image](https://github.com/user-attachments/assets/dcb76f56-8d24-484f-9b6a-371727796a4d)
+
 
 <!---
 emsbigdata/emsbigdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
