@@ -1,11 +1,16 @@
-# 프로젝트 소개
+# Repository 소개
+## 1. 공개 Repository 목록
+  - emsbigdata
+    
+## 2. 비공개 Repository 목록
+  - EMS NEDIS Agent
+  - EMS PSM Algorithm
 
-## 1. 프로젝트 소개
-  - 
-  - 관리자 메일
-<a href="mailto:(mslee@owl-nest.com)" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
-</a>
+## 3. Repository 관련 문의처
+  - Repository : emsbigdata
+  - 문의방법 : Discusion의 Q&A를 사용하여 문의
+  - 바로가기
+[![Q&A](https://img.shields.io/badge/Ask%20Questions-Q%26A-blue)](https://github.com/emsbigdata/emsbigdata/discussions/categories/q-a)
 
 ---
 
