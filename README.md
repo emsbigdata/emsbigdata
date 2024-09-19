@@ -79,7 +79,7 @@
 
 ## 1. 개요
 
-  - README SFM-NEDIS Gmatch 알고리즘은 emergency.csv와 119.csv 두 개의 다른 소스에서 환자 기록을 병원 코드, 성별, 내원 날짜 및 연령과 같은 다양한 속성을 기준으로 매칭하는 도구
+  - SFM-NEDIS Gmatch 알고리즘은 emergency.csv와 119.csv 두 개의 다른 소스에서 환자 기록을 병원 코드, 성별, 내원 날짜 및 연령과 같은 다양한 속성을 기준으로 매칭하는 도구
   - 매칭 과정에서는 연령과 내원 시간의 유클리드 거리를 계산하여 가장 가까이 위치한 일치되는 항목 매칭
   - 결과는 nedis_patient_care_reports_mtchg.csv라는 CSV 파일에 저장
 
