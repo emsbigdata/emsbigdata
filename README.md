@@ -1,4 +1,4 @@
-![fltfomIntro](https://github.com/user-attachments/assets/eaf26837-b585-4c60-a48a-ba63be824e15)# 스마트 응급의료 빅데이터 플랫폼
+# 스마트 응급의료 빅데이터 플랫폼
 
 
 ## 1. 개요
@@ -13,13 +13,16 @@
   - (국민) 골든타임 확보
     - 골든타임 내 적절한 응급처치와 이송
     - 국민을 대상으로 보다 나은 서비스 제공
-    
+
+    ![summary_img01](https://github.com/user-attachments/assets/b76cbe2e-19b2-4698-bab1-1d1ac3eb26b6)
+
 ---
 
 ## 2. 플랫폼 구성도
   - 데이터 시각화를 통해 누구나 쉽게 응급의료 데이터를 분석하고 활용
   - 실시간 자원 연계를 통해 환자 이송 병원 결정과 응급처치 정보 공유 등 응급의료 조정과 대응의 효율성 증대
   - 자동차사고 심층조사 분석를 통해 사고 예방과 신속하고 최적화된 응급의료 대응 방안을 개선하는 데 기여
+    
 ![fltfomIntro](https://github.com/user-attachments/assets/e4f3f2ea-973c-4742-91df-ee9f6e7a9ece)
 
 ---
