@@ -2,7 +2,7 @@
 
 ## 1. 프로젝트 소개
   - 
-  - [관리자 메일] (mslee@owl-nest.com) 
+  - [관리자 메일](mslee@owl-nest.com) 
 
 ---
 
