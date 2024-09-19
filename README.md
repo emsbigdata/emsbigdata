@@ -11,8 +11,8 @@
   - OS : Ubuntu 22.04
   - DBMS : PostGreSQL 16.2
   - DB Admin Tool : pgAdmin 4
-  - DB Tool : DBeaver Community 24.2.0
-  - Language : Python 3.11
+  - DB User Tool : DBeaver Community 24.2.0
+  - Programming Language : Python 3.11
 
     
 [![Ubuntu](https://github.com/user-attachments/assets/c25473d8-efb9-4fe1-afab-2b231a0d0727)](https://releases.ubuntu.com/jammy/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
