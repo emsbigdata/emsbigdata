@@ -107,7 +107,7 @@
 
 ![image](https://github.com/user-attachments/assets/2e347f68-82af-4702-bb5a-3dd1bd80ebf9)
 
-  - NEDIS Agent PC 활용 데이터를 연계·적재 및 충북 맞춤형 응급의료 데이터 서비스 제공합니다.
+  - NEDIS Agent PC 활용 데이터를 연계·적재 및 충북 맞춤형 응급의료 데이터 서비스를 제공합니다.
 
 ![image](https://github.com/user-attachments/assets/e97cfeda-3e0b-45d9-8fb3-3cb5324d6ac7)
 
