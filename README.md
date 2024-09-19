@@ -75,7 +75,75 @@
 
     ---
 
-# PSM
+# EMS-PSM-Algorithm
+
+## 1. 개요
+
+  - README SFM-NEDIS Gmatch 알고리즘은 emergency.csv와 119.csv 두 개의 다른 소스에서 환자 기록을 병원 코드, 성별, 내원 날짜 및 연령과 같은 다양한 속성을 기준으로 매칭하는 도구
+  - 매칭 과정에서는 연령과 내원 시간의 유클리드 거리를 계산하여 가장 가까이 위치한 일치되는 항목 매칭
+  - 결과는 nedis_patient_care_reports_mtchg.csv라는 CSV 파일에 저장
+
+## 2. 사전 요구 사항
+2.1 필요한 Python 패키지
+ - pandas
+ - numpy
+ - argparse
+
+※ 필요한 패키지는 다음 명령어를 통해 설치
+```
+pip install pandas numpy argparse
+```
+
+## 3. 사용 파일
+3.1 emergency.csv 응급실 기록을 포함하며, 다음과 같은 관련 열이 포함
+  - ptmiindt 내원 날짜 (YYYYMMDD 형식)
+  - ptmiintm 내원 시간 (HHMMSS 형식)
+  - ptmiemnm 병원 코드
+  - ptmisexx 환자 성별
+  - ptmibrtd 환자 나이
+
+3.2 119.csv 119 응급 기록을 포함하며, 다음과 같은 관련 열이 포함
+    - hosp_id 병원 코드
+    - pat_gender 환자 성별
+    - pat_age 환자 나이
+    - arrived_atage 도착 시간 (타임스탬프 형식)
+
+
+## 4. 사용 방법
+4.1 명령줄 인자 병원도착날짜 기준
+   - --start_date 시작 날짜, YYYYMMDD 형식 (필수).
+   - --end_date 종료 날짜, YYYYMMDD 형식 (필수).
+
+※ 사용 예
+```
+python script.py --start_date 20220101 --end_date 20221231
+```
+
+4.2 CSV 파일
+   - emergency.csv와 119.csv 파일을 스크립트와 동일한 디렉토리에 위치
+
+4.3 스크립트 실행
+   - 스크립트는 두 CSV 파일을 읽고, 관련 필드를 추출한 후 병원 코드, 성별, 내원 날짜 및 연령과 내원 시간을 이용해 계산된 유클리드 거리를 기반으로 매칭을 수행
+
+4.4 출력
+   - 매칭된 기록은 nedis_patient_care_reports_mtchg.csv라는 파일에 동일한 디렉토리에 저장
+
+## 5. 상세 워크플로우
+
+5.1 데이터 파싱
+   - 스크립트는 먼저 emergency.csv와 119.csv 파일을 로드
+   - 날짜 및 시간 열을 파싱하고 형식 통일
+
+5.2 병원 코드 매핑
+   - 스크립트는 사전에 정의된 병원 매핑 테이블을 사용하여 emergency.csv의 병원 코드와 119.csv의 병원 코드 연결
+
+5.3 매칭 수행
+   - 성별, 병원 코드, 내원 날짜 및 시간, 그리고 유클리드 거리 계산을 통해 가장 가까운 일치를 찾음.
+
+5.4 결과 저장
+   - 최종 매칭 결과는 nedis_patient_care_reports_mtchg.csv 파일로 저장
+
+
     
 <!---
 emsbigdata/emsbigdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
