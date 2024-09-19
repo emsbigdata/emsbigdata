@@ -10,12 +10,16 @@
 ## 3. 공통 요구사양
   - OS : Ubuntu 22.04
   - DB : PostGreSQL 16.2
+  - DB Admin Tool : pgAdmin 4
   - DB Tool : DBeaver Community 24.2.0
   - Language : Python 3.11
 
     
 [![Ubuntu](https://github.com/user-attachments/assets/c25473d8-efb9-4fe1-afab-2b231a0d0727)](https://releases.ubuntu.com/jammy/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![postresql](https://github.com/user-attachments/assets/82800751-3f13-4db9-ad53-d6aa8543f0a0)](https://www.postgresql.org/download/)<br><br>
+[![postresql](https://github.com/user-attachments/assets/82800751-3f13-4db9-ad53-d6aa8543f0a0)](https://www.postgresql.org/download/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![pgadmin-removebg](https://github.com/user-attachments/assets/2bf57a44-de2d-4672-8607-4b652dd5526f)](https://www.pgadmin.org/download/)
+<br>
+<br>
 [![python](https://github.com/user-attachments/assets/b9ba1abd-55bf-4163-98cc-6f9a79af49da)](https://www.python.org/downloads/release/python-3110/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![dbeaver](https://github.com/user-attachments/assets/7e6e8568-7ad0-4264-98ad-84553c58fa41)](https://dbeaver.io/2024/09/01/dbeaver-24-2/)
 
