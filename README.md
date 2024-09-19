@@ -16,7 +16,6 @@
 
 ![image](https://github.com/user-attachments/assets/0564ca83-b51f-4495-b82d-53a8c2c76062)
 
-
 ---
 
 ## 2. 플랫폼 구성도
